@@ -1,8 +1,7 @@
 
 # LLM Fine-tuning with LoRA: LLaMA 2 Educational Implementation
 
-**Delivered By: Dr. Basharat Hussain**  
-**NUST University Seminar - August 2025**  
+**By: Dr. Basharat Hussain**  
 **Topic: Large Language Model Fine-tuning using Parameter-Efficient Methods**
 
 ## 📋 Table of Contents
@@ -339,8 +338,7 @@ This project is for educational purposes. Please respect:
 
 ---
 
-**Seminar Contact**: NUST University Computer Science Department  
 **Date**: August 2025  
-**Instructor**: [Your Name]  
+**Instructor**: Basharat Hussain  
 
 *This implementation serves as a practical introduction to modern LLM fine-tuning techniques for students and researchers.*
